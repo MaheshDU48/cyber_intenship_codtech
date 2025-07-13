@@ -29,3 +29,4 @@ A Python script was developed with two main features:
 This tool is useful for students learning about cybersecurity basics, file handling, or system monitoring.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/96e01fe2-c859-48bd-9227-ed891ae1358b)
